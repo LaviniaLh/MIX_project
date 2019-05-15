@@ -2,7 +2,7 @@
 
 The project's size was too big to upload it (it requires less than 25MB and ours has around 5GB), so we decided to upload the scripts only. Please let us know if we should do anything else. 
 
-Youtube video: 
+Youtube video: https://www.youtube.com/watch?v=ss_NTjq1Bg8&feature=youtu.be&fbclid=IwAR2MNFPWYMHRxysJGgcEil5xS6FkBtJCvgn72YTsaX8faXf7fdkHl0uON7Q
 
 Devblog:
 https://worldofgames809155915.wordpress.com
