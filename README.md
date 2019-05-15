@@ -1,5 +1,7 @@
 # MIX_project
 
+The project's size was too big to upload it (it requires less than 25MB and ours has around 5GB), so we decided to upload the scripts only. Please let us know if we should do anything else. 
+
 Youtube video: 
 
 Devblog:
